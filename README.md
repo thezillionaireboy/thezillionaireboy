@@ -10,6 +10,9 @@ I believe those user research, programming and data science skills will help in 
 [github]: https://github.com/thezillionaireboy
 [dribbble]: https://dribbble.com/akshajpiri
 
+[<img align="left" alt="akshajpiri | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="thezillionaireboy | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
+[<img align="left" alt="akshajpiri | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezillionaireboy&label=Profile%20views&color=0e75b6&style=flat" alt="akshaj-piri" /> </p>
 
