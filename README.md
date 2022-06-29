@@ -18,4 +18,4 @@ I believe those user research, programming and data science skills will help in 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezillionaireboy&label=Profile%20views&color=0e75b6&style=flat" alt="akshaj-piri" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezillionaireboy&" alt="akshaj-piri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thezillionaireboy&theme=github-dark-blue" alt="akshaj-piri" /></p>
