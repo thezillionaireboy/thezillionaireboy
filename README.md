@@ -7,7 +7,7 @@ I believe those user research, programming and data science skills will help in 
 
 [linkedin]: https://www.linkedin.com/in/akshajpiri
 [github]: https://github.com/thezillionaireboy
-[dribbble]: https://dribbble.com/akshajpiri
+[dribbble]: https://dribbble.com/thezillionaireboy
 
 [<img align="left" alt="akshajpiri | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="thezillionaireboy | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
