@@ -1,5 +1,5 @@
 # Hello There! :wave:
-My name is Akshaj, which means a "thunderbolt", "diamond", and is also one of the numerous monikers given to Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an astronomer. 
+My name is Akshaj, which means a "thunderbolt", "diamond", and is also one of the numerous monikers given to Lord Vishnu. Since my childhood, I've been fascinated by superheroes <i class="fa-regular fa-mask"></i> and star wars <i class="fa-light fa-swords-laser"></i>. As a result, I aspire to be an astronomer. 
 
 To prepare for my dream career as an astronomer, I'm honing my skills in maths, science, user research, design, programming, data science, and artificial intelligence through a variety of projects and internships.
 
