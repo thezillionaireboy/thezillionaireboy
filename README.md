@@ -16,6 +16,6 @@ I believe those user research, programming and data science skills will help in 
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezillionaireboy&label=Visitors%20views&color=0066FF&style=flat-square" alt="akshaj-piri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezillionaireboy&label=visitorss&color=0066FF&style=flat-square" alt="akshaj-piri" /> </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=thezillionaireboy&theme=github-dark-blue" alt="akshaj-piri" /></p>
