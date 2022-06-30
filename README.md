@@ -5,7 +5,7 @@ To prepare for my dream career as an astronomer, I'm honing my skills in maths, 
 
 I believe those user research, programming and data science skills will help in my career to acquire, store, and process huge amount of unstructured space data and my Design, AI and story telling skills will help me to find the pattern and predict and visualize insights through data story telling skills.
 
-[linkedin]: https://www.linkedin.com/in/akshajpiri
+[linkedin]: www.linkedin.com/in/thezillionaireboy
 [github]: https://github.com/thezillionaireboy
 [dribbble]: https://dribbble.com/thezillionaireboy
 
