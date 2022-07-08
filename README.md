@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/thezillionaireboy/thezillionaireboy/blob/main/img/Logo.png" width="200"/></h1>
+<h1 align="center"><img src="https://github.com/thezillionaireboy/thezillionaireboy/blob/main/img/Logo.png" width="150"/></h1>
 
 # Hello There! :wave:
 
