@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/thezillionaireboy/thezillionaireboy/blob/main/img/Logo.png" width="150"/></h1>
 
-# Hello There! :wave:
+<h1 align="center">Hello There! :wave:</h1>
 
 My name is Akshaj, which means a "thunderbolt", "diamond", and is also one of the numerous monikers given to Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an astronomer. 
 
